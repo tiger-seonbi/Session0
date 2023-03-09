@@ -1,0 +1,92 @@
+h1 {
+    width: 900px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: 600;
+    color: rgb(242, 158, 55);
+    margin: 0 auto;
+    margin-bottom: 25px;
+    border-style: solid;
+    border-width: 3px;
+    padding: 5px;
+}
+html {
+    margin:0;
+}
+body {
+    margin: 0;
+    background-color: black;
+}
+#profile {
+    color: white;
+    font-size: x-large;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(242, 158, 55);
+    border-radius: 10%;
+    margin: 0 auto;
+}
+h2 {
+    color: rgb(242, 158, 55);
+    margin-left: 45px;
+    margin-top: 50px;
+}
+.tmi {
+    color: white;
+    border-style: solid;
+    border-width: 3px;
+    border-color:rgb(242, 158, 55);
+    margin: 15px;
+    font-size: large;
+}
+ol {
+    line-height: 1.7;
+    list-style-type: none;
+}
+ul {
+    list-style-type: square;
+    line-height: 1.3;
+}
+#slamdunk {
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(242, 158, 55);
+    border-radius: 10%;
+}
+#me {
+    width: 230px;
+    height: 300px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(242, 158, 55);
+    border-radius: 10%;
+}
+.container{
+    width: 885px;
+    height: 332px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    justify-content: center;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: rgb(242, 158, 55);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.item {
+    align-self: center;
+    justify-self: center;
+}
+b {
+    color: white;
+}
+.box {
+    width: 900px;
+    margin: 0 auto;
+}
+mark {
+    background-color: rgb(242, 158, 55);
+}
